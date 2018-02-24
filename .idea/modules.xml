@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ObfuscationExample.iml" filepath="$PROJECT_DIR$/ObfuscationExample.iml" />
+      <module fileurl="file://J:\Android-Samples\s_fitness_base\ObfuscationExample\facade\app.iml" filepath="J:\Android-Samples\s_fitness_base\ObfuscationExample\facade\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/facade/app.iml" filepath="$PROJECT_DIR$/facade/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facade/facade.iml" filepath="$PROJECT_DIR$/facade/facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/middleware/middleware.iml" filepath="$PROJECT_DIR$/middleware/middleware.iml" />
     </modules>
   </component>
